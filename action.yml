@@ -1,4 +1,4 @@
-name: "Create Github Issue"
+name: "Create new Github Issue"
 author: mrdoodles
 description: "Creates a github issue"
 inputs:
